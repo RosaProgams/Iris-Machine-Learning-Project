@@ -1,7 +1,6 @@
 # Iris-Machine-Learning-Project
-This project explores the **Iris flower dataset**, a classic dataset in machine learning, to build a classifier that predicts the species of an iris flower based on its measurements.
+This project explores the **Iris flower dataset**, a classic dataset in machine learning, to build a classifier that predicts the species of an iris flower based on its measurements. https://en.wikipedia.org/wiki/Iris_flower_data_set
 - **Goal**: Predict the species (*Setosa*, *Versicolor*, *Virginica*) from sepal length, sepal width, petal length, and petal width.
-- **Approach**:
 
 ## Project Overview
   1. **Exploratory Data Analysis (EDA)**  
